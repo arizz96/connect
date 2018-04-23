@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/segmentio/connect/internal/api"
+	"./internal/api"
 )
 
 // Integration is the iterface defining a Segment connect integration
